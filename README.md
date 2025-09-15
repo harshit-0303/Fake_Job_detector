@@ -15,10 +15,43 @@ Scalable: Lightweight and deployable on Streamlit Cloud, Render, or Heroku.
 ## Technologies Used
 
 Programming Language: Python 3.11+  
-Libraries & Frameworks:
+Libraries & Frameworks:  
     Machine Learning: scikit-learn, xgboost  
     Data Processing: numpy, pandas, scipy  
     Web App: streamlit  
     Serialization: joblib  
     Text Processing: nltk  
 Version Control: Git & GitHub
+
+## Project Structure
+
+Fake_Job_Detector/
+│
+├── app.py                       # Streamlit application
+├── logistic_regression_model.joblib
+├── xgboost_model.joblib
+├── tfidf_vectorizer.joblib
+├── encoder.joblib               # One-hot encoder for categorical features
+├── requirements.txt             # Dependencies for the project
+└── README.md  
+
+## Installation
+
+### Clone the repository:  
+
+git clone https://github.com/harshit-0303/Fake_Job_detector.git  
+cd Fake_Job_detector  
+
+
+### Install dependencies:  
+
+pip install -r requirements.txt
+
+
+### Run the Streamlit app locally:  
+
+streamlit run app.py
+
+
+The app will be available at http://localhost:8501.
+
