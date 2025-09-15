@@ -27,12 +27,12 @@ Version Control: Git & GitHub
 
 Fake_Job_Detector/  
 │
-├── app.py                         # Streamlit application
+├── app.py                         # Streamlit application  
 ├── logistic_regression_model.joblib  
 ├── xgboost_model.joblib  
 ├── tfidf_vectorizer.joblib  
-├── encoder.joblib                 # One-hot encoder for categorical features
-├── requirements.txt               # Dependencies for the project
+├── encoder.joblib                 # One-hot encoder for categorical features  
+├── requirements.txt               # Dependencies for the project  
 └── README.md    
 
 ## Installation
