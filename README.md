@@ -47,7 +47,8 @@ Fake_Job_Detector/
 
 <p align="center">
   <img src="https://ik.imagekit.io/vtwmik0pw/Screenshot%202025-11-07%20200555.png?updatedAt=1762533961457" width="800"/>
-</p>
+</p>  
+
 ---
 
 ## ⚡ Installation
