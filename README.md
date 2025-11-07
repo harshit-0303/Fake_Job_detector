@@ -41,6 +41,14 @@ Fake_Job_Detector/
 └── README.md  
 
 ---
+<p align="center">
+  <b> Streamlit Dashboard</b>
+</p>
+
+<p align="center">
+  <img src="https://ik.imagekit.io/vtwmik0pw/Screenshot%202025-11-07%20200555.png?updatedAt=1762533961457" width="800"/>
+</p>
+---
 
 ## ⚡ Installation
 
